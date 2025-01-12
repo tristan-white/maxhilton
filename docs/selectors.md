@@ -1,0 +1,12 @@
+- room type code
+    - data.hotel.shopAvail.roomTypes[0].roomTypeCode
+    - data.hotel.shopAvail.roomTypes[0].moreRatesFromRate.roomTypeCode
+- room name
+    - data.hotel.shopAvail.roomTypes[0].name
+- thumbnail url
+    - data.hotel.shopAvail.roomTypes[0].thumbnail[0].variants[0].url
+- rate amount
+    - data.hotel.shopAvail.roomTypes[0].moreRatesFromRate.rateAmount
+- after tax
+    - data.hotel.shopAvail.roomTypes[0].moreRatesFromRate.  amountAfterTaxFmt
+
